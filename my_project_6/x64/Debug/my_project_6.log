@@ -1,2 +1,3 @@
 ﻿  my_project_6.cpp
+C:\Users\Артем Тен\source\repos\my_project_6\my_project_6\my_project_6.cpp(11,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   my_project_6.vcxproj -> C:\Users\Артем Тен\source\repos\my_project_6\x64\Debug\my_project_6.exe
